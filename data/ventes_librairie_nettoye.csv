@@ -1,0 +1,201 @@
+﻿ID_Transaction,Date,TitreLivre,Categorie,Prix,Quantite,NomClient,Email,Sexe
+1,2023-01-15,Le Petit Prince,Jeunesse,10.99,20,Marie Dupont,marie.dupont@example.com,F
+2,2023-01-20,1984,Classique,125.0,15,Jean Martin,jean.martin@example.com,M
+3,2023-02-05,Harry Potter,Jeunesse,1575.0,25,Pierre Bernard,pierre.bernard@example.com,M
+4,2023-02-12,1984,Classique,125.0,10,Sophie Dubois,sophie.dubois@example.com,F
+5,2023-02-18,L'Étranger,Classique,9.99,30,Inconnu,client_inconnu@example.com,U
+6,2023-02-25,Le Seigneur des Anneaux,Fantasy,205.0,5,Lucie Moreau,lucie.moreau@example.com,F
+7,2023-03-03,Crime et Châtiment,Classique,11.25,15,Thomas Leroy,thomas.leroy@example.com,M
+8,2023-03-10,Le Petit Prince,Jeunesse,10.99,20,Marie Dupont,marie.dupont@example.com,F
+9,2023-03-15,La Nuit des temps,Science-Fiction,13.5,8,Julie Roux,julie.roux@example.com,F
+10,2023-03-22,Le Hobbit,Fantasy,18.75,12,David Blanc,david.blanc@example.com,M
+11,2023-03-30,Dune,Science-Fiction,220.0,18,Emma Laurent,emma.laurent@example.com,F
+12,2023-04-05,Orgueil et Préjugés,Classique,8.99,7,Paul Girard,paul.girard@example.com,M
+13,2023-04-12,L'Alchimiste,Philosophie,14.5,22,Claire Petit,claire.petit@example.com,F
+14,2023-04-18,Le Rouge et le Noir,Classique,1025.0,9,Marc Fournier,marc.fournier@example.com,M
+15,2023-04-25,Les Misérables,Classique,19.99,28,Alice Roy,alice.roy@example.com,F
+16,2023-05-02,La Peste,Classique,95.0,14,Louis Mercier,louis.mercier@example.com,M
+17,2023-05-09,Le Parfum,Littérature,11.75,6,Chloé Lefèvre,chloe.lefevre@example.com,F
+18,2023-05-16,Fondation,Science-Fiction,165.0,25,Nicolas Blanc,nicolas.blanc@example.com,M
+19,2023-05-23,Les Fleurs du Mal,Poésie,7.99,17,Sarah Dumont,sarah.dumont@example.com,F
+20,2023-05-30,Bel-Ami,Classique,100.0,11,Mathieu Roux,mathieu.roux@example.com,M
+21,2023-06-30,Le Meilleur des mondes,Science-Fiction,15.5,20,Paul Dubois,paul.dubois@example.com,M
+22,2023-07-01,La Peste,Classique,999.0,10,Marie Leclerc,inconnu@example.com,F
+23,2023-07-14,L'Étranger,Classique,9.0,30,Pierre Martin,pierre.martin@example.com,M
+24,2023-07-21,1984,Classique,125.0,15,Sophie Bernard,sophie.bernard@example.com,F
+25,2023-07-28,Dune,Science-Fiction,22.0,25,Alexandre Petit,alex.petit@example.com,M
+26,2023-08-04,Le Petit Prince,Jeunesse,10.99,20,Julie Robert,julie.robert@example.com,F
+27,2023-08-11,Le Seigneur des Anneaux,Fantasy,205.0,5,Thomas Moreau,thomas.moreau@example.com,M
+28,2023-08-18,Crime et Châtiment,Classique,11.25,12,Emma Laurent,emma.laurent@example.com,F
+29,2023-08-25,La Nuit des temps,Science-Fiction,13.5,8,Lucas Blanc,lucas.blanc@example.com,M
+30,2023-09-01,Le Hobbit,Fantasy,18.75,18,Chloé Girard,chloe.girard@example.com,F
+31,2023-09-08,L'Alchimiste,Philosophie,14.5,7,Antoine Roux,antoine.roux@example.com,M
+32,2023-09-15,Les Misérables,Classique,19.99,22,Sarah David,sarah.david@example.com,F
+33,2023-09-22,Le Parfum,Littérature,11.75,15,Nicolas Simon,nicolas.simon@example.com,M
+34,2023-09-29,Fondation,Science-Fiction,165.0,30,Manon Morel,manon.morel@example.com,F
+35,2023-10-06,Les Fleurs du Mal,Poésie,7.99,25,François Mercier,francois.mercier@example.com,M
+36,2023-10-13,Bel-Ami,Classique,100.0,6,Léa Dubois,lea.dubois@example.com,F
+37,2023-10-20,Le Comte de Monte-Cristo,Classique,24.5,9,Pierre Leroy,pierre.leroy@example.com,M
+38,2023-10-27,Voyage au bout de la nuit,Littérature,12.25,17,Clara Bernard,clara.bernard@example.com,F
+39,2023-11-03,La Gloire de mon père,Autobiographie,13.75,11,Alex Martin,alex.martin@example.com,M
+40,2023-11-10,Le Nom de la rose,Historique,18.0,14,Inès Laurent,ines.laurent@example.com,F
+41,2023-11-17,L'Écume des jours,Surréalisme,9.5,28,Théo Blanc,theo.blanc@example.com,M
+42,2023-11-24,La Horde du Contrevent,Fantasy,21.5,3,Léa Robert,lea.robert@example.com,F
+43,2023-12-01,Les Thanatonautes,Science-Fiction,15.25,24,Mathis Simon,mathis.simon@example.com,M
+44,2023-12-08,Le Château de Kafka,Littérature,10.99,5,Emma Martin,emma.martin@example.com,F
+45,2023-12-15,La Planète des singes,Science-Fiction,12.75,16,Louis Dubois,louis.dubois@example.com,M
+46,2023-12-22,L'Art de la guerre,Philosophie,6.99,19,Chloé Morel,chloe.morel@example.com,F
+47,2023-12-29,Le Meilleur des mondes,Science-Fiction,11.5,8,Pierre Laurent,pierre.laurent@example.com,M
+48,2024-01-05,Les Fourmis,Science-Fiction,14.25,13,Sarah Blanc,sarah.blanc@example.com,F
+49,2024-01-12,Le Vieil Homme et la Mer,Classique,8.5,21,Thomas Roux,thomas.roux@example.com,M
+50,2024-01-19,La Trilogie new-yorkaise,Littérature,17.99,4,Lucie Martin,lucie.martin@example.com,F
+51,2024-01-26,Le Silmarillion,Fantasy,20.0,18,Alexandre Roux,alexandre.roux@example.com,M
+52,2024-02-02,Le Liseur,Littérature,9.25,12,Clara Girard,clara.girard@example.com,F
+53,2024-02-09,Les Hauts de Hurlevent,Classique,10.5,7,Nicolas Martin,nicolas.martin@example.com,M
+54,2024-02-16,Le Petit Nicolas,Jeunesse,7.99,22,Lucie Durand,lucie.durand@example.com,F
+55,2024-02-23,Le Monde de Sophie,Philosophie,13.5,15,Victor Moreau,victor.moreau@example.com,M
+56,2024-03-01,La Promesse de l'aube,Autobiographie,11.25,9,Inès Laurent,ines.laurent@example.com,F
+57,2024-03-08,Le Livre des Baltimore,Littérature,14.99,25,Théo Blanc,theo.blanc@example.com,M
+58,2024-03-15,La Passe-miroir,Fantasy,16.5,14,Léa Robert,lea.robert@example.com,F
+59,2024-03-22,La Nuit des temps,Science-Fiction,15.25,6,Mathis Simon,mathis.simon@example.com,M
+60,2024-03-29,Le Symbole perdu,Thriller,12.75,19,Emma Martin,emma.martin@example.com,F
+61,2024-04-05,L'Île mystérieuse,Aventure,9.99,11,Louis Dubois,louis.dubois@example.com,M
+62,2024-04-12,Le Tour du monde en 80 jours,Aventure,8.5,27,Chloé Morel,chloe.morel@example.com,F
+63,2024-04-19,Les Robots,Science-Fiction,11.25,8,Pierre Laurent,pierre.laurent@example.com,M
+64,2024-04-26,Le Hobbit,Fantasy,18.75,16,Sarah Blanc,sarah.blanc@example.com,F
+65,2024-05-03,Le Parfum,Littérature,11.75,5,Thomas Roux,thomas.roux@example.com,M
+66,2024-05-10,La Ferme des animaux,Satire,7.99,20,Lucie Martin,lucie.martin@example.com,F
+67,2024-05-17,Le Rouge et le Noir,Classique,10.25,13,Marc Fournier,marc.fournier@example.com,M
+68,2024-05-24,Les Misérables,Classique,19.99,7,Alice Roy,alice.roy@example.com,F
+69,2024-05-31,La Peste,Classique,95.0,23,Louis Mercier,louis.mercier@example.com,M
+70,2024-06-07,Le Parfum,Littérature,11.75,10,Chloé Lefèvre,chloe.lefevre@example.com,F
+71,2024-06-14,Fondation,Science-Fiction,165.0,28,Nicolas Blanc,nicolas.blanc@example.com,M
+72,2024-06-21,Les Fleurs du Mal,Poésie,7.99,17,Sarah Dumont,sarah.dumont@example.com,F
+73,2024-06-28,Bel-Ami,Classique,100.0,9,Mathieu Roux,mathieu.roux@example.com,M
+74,2024-07-05,Le Comte de Monte-Cristo,Classique,24.5,21,Elodie Simon,elodie.simon@example.com,F
+75,2024-07-12,Voyage au bout de la nuit,Littérature,12.25,14,Pierre Durand,pierre.durand@example.com,M
+76,2024-07-19,La Gloire de mon père,Autobiographie,13.75,6,Anne Moreau,anne.moreau@example.com,F
+77,2024-07-26,Le Nom de la rose,Historique,18.0,25,François David,francois.david@example.com,M
+78,2024-08-02,L'Écume des jours,Surréalisme,9.5,18,Léa Martin,lea.martin@example.com,F
+79,2024-08-09,La Horde du Contrevent,Fantasy,21.5,7,Thomas Laurent,thomas.laurent@example.com,M
+80,2024-08-16,Les Thanatonautes,Science-Fiction,15.25,22,Sophie Robert,sophie.robert@example.com,F
+81,2024-08-23,Le Château de Kafka,Littérature,10.99,5,Pauline Blanc,pauline.blanc@example.com,F
+82,2024-08-30,La Planète des singes,Science-Fiction,12.75,19,Antoine Petit,antoine.petit@example.com,M
+83,2024-09-06,L'Art de la guerre,Philosophie,6.99,12,Manon Leroy,manon.leroy@example.com,F
+84,2024-09-13,Le Meilleur des mondes,Science-Fiction,11.5,27,Lucas Morel,lucas.morel@example.com,M
+85,2024-09-20,Les Fourmis,Science-Fiction,14.25,8,Julie Bernard,julie.bernard@example.com,F
+86,2024-09-27,Le Vieil Homme et la Mer,Classique,8.5,16,Pierre Simon,pierre.simon@example.com,M
+87,2024-10-04,La Trilogie new-yorkaise,Littérature,17.99,11,Emma Dubois,emma.dubois@example.com,F
+88,2024-10-11,Le Silmarillion,Fantasy,20.0,23,Alexandre Roux,alexandre.roux@example.com,M
+89,2024-10-18,Le Liseur,Littérature,9.25,14,Clara Girard,clara.girard@example.com,F
+90,2024-10-25,Les Hauts de Hurlevent,Classique,10.5,7,Nicolas Martin,nicolas.martin@example.com,M
+91,2024-11-01,Le Petit Nicolas,Jeunesse,7.99,29,Lucie Durand,lucie.durand@example.com,F
+92,2024-11-08,Le Monde de Sophie,Philosophie,13.5,13,Victor Moreau,victor.moreau@example.com,M
+93,2024-11-15,La Promesse de l'aube,Autobiographie,11.25,20,Inès Laurent,ines.laurent@example.com,F
+94,2024-11-22,Le Livre des Baltimore,Littérature,14.99,9,Théo Blanc,theo.blanc@example.com,M
+95,2024-11-29,La Passe-miroir,Fantasy,16.5,17,Léa Robert,lea.robert@example.com,F
+96,2024-12-06,La Nuit des temps,Science-Fiction,15.25,6,Mathis Simon,mathis.simon@example.com,M
+97,2024-12-13,Le Symbole perdu,Thriller,12.75,24,Emma Martin,emma.martin@example.com,F
+98,2024-12-20,L'Île mystérieuse,Aventure,9.99,15,Louis Dubois,louis.dubois@example.com,M
+99,2024-12-27,Le Tour du monde en 80 jours,Aventure,8.5,28,Chloé Morel,chloe.morel@example.com,F
+100,2025-01-03,Les Robots,Science-Fiction,11.25,10,Pierre Laurent,pierre.laurent@example.com,M
+101,2025-01-10,L'Étranger,Littérature,9.99,25,Pauline Martin,pauline.martin@example.com,F
+102,2025-01-17,1984,Classique,125.0,15,Mathieu Bernard,mathieu.bernard@example.com,M
+103,2025-01-24,Le Petit Prince,Jeunesse,10.99,18,Lucie Dubois,lucie.dubois@example.com,F
+104,2025-01-31,Dune,Science-Fiction,22.0,30,Pierre Leroy,pierre.leroy@example.com,M
+105,2025-02-07,Le Seigneur des Anneaux,Fantasy,20.5,12,Emma Blanc,emma.blanc@example.com,F
+106,2025-02-14,Crime et Châtiment,Classique,11.25,8,Thomas Moreau,thomas.moreau@example.com,M
+107,2025-02-21,La Nuit des temps,Science-Fiction,13.5,22,Sophie Roux,sophie.roux@example.com,F
+108,2025-02-28,Le Hobbit,Fantasy,18.75,14,Nicolas Simon,nicolas.simon@example.com,M
+109,2025-03-07,L'Alchimiste,Philosophie,14.5,9,Manon Laurent,manon.laurent@example.com,F
+110,2025-03-14,Les Misérables,Classique,19.99,28,Alexandre Petit,alexandre.petit@example.com,M
+111,2025-03-21,Le Parfum,Littérature,11.75,16,Chloé Robert,chloe.robert@example.com,F
+112,2025-03-28,Fondation,Science-Fiction,165.0,25,Lucas Morel,lucas.morel@example.com,M
+113,2025-04-04,Les Fleurs du Mal,Poésie,7.99,19,Sarah Girard,sarah.girard@example.com,F
+114,2025-04-11,Bel-Ami,Classique,100.0,7,François David,francois.david@example.com,M
+115,2025-04-18,Le Comte de Monte-Cristo,Classique,24.5,21,Inès Blanc,ines.blanc@example.com,F
+116,2025-04-25,Voyage au bout de la nuit,Littérature,12.25,13,Théo Martin,theo.martin@example.com,M
+117,2025-05-02,La Gloire de mon père,Autobiographie,13.75,11,Léa Simon,lea.simon@example.com,F
+118,2025-05-09,Le Nom de la rose,Historique,18.0,24,Pierre Moreau,pierre.moreau@example.com,M
+119,2025-05-16,L'Écume des jours,Surréalisme,9.5,17,Emma Dubois,emma.dubois@example.com,F
+120,2025-05-23,La Horde du Contrevent,Fantasy,21.5,6,Mathis Laurent,mathis.laurent@example.com,M
+121,2025-05-30,Les Thanatonautes,Science-Fiction,15.25,22,Clara Bernard,clara.bernard@example.com,F
+122,2025-06-06,Le Château de Kafka,Littérature,10.99,8,Pauline Robert,pauline.robert@example.com,F
+123,2025-06-13,La Planète des singes,Science-Fiction,12.75,15,Antoine Petit,antoine.petit@example.com,M
+124,2025-06-20,L'Art de la guerre,Philosophie,6.99,19,Manon Leroy,manon.leroy@example.com,F
+125,2025-06-27,Le Meilleur des mondes,Science-Fiction,11.5,27,Lucas Morel,lucas.morel@example.com,M
+126,2025-07-04,Les Fourmis,Science-Fiction,14.25,12,Julie Girard,julie.girard@example.com,F
+127,2025-07-11,Le Vieil Homme et la Mer,Classique,8.5,16,Pierre Simon,pierre.simon@example.com,M
+128,2025-07-18,La Trilogie new-yorkaise,Littérature,17.99,9,Emma David,emma.david@example.com,F
+129,2025-07-25,Le Silmarillion,Fantasy,20.0,23,Alexandre Moreau,alexandre.moreau@example.com,M
+130,2025-08-01,Le Liseur,Littérature,9.25,14,Clara Blanc,clara.blanc@example.com,F
+131,2025-08-08,Les Hauts de Hurlevent,Classique,10.5,7,Nicolas Martin,nicolas.martin@example.com,M
+132,2025-08-15,Le Petit Nicolas,Jeunesse,7.99,29,Lucie Durand,lucie.durand@example.com,F
+133,2025-08-22,Le Monde de Sophie,Philosophie,13.5,13,Victor Laurent,victor.laurent@example.com,M
+134,2025-08-29,La Promesse de l'aube,Autobiographie,11.25,20,Inès Robert,ines.robert@example.com,F
+135,2025-09-05,Le Livre des Baltimore,Littérature,14.99,9,Théo Petit,theo.petit@example.com,M
+136,2025-09-12,La Passe-miroir,Fantasy,16.5,17,Léa Morel,lea.morel@example.com,F
+137,2025-09-19,La Nuit des temps,Science-Fiction,15.25,6,Mathis Girard,mathis.girard@example.com,M
+138,2025-09-26,Le Symbole perdu,Thriller,12.75,24,Emma Simon,emma.simon@example.com,F
+139,2025-10-03,L'Île mystérieuse,Aventure,9.99,15,Louis Blanc,louis.blanc@example.com,M
+140,2025-10-10,Le Tour du monde en 80 jours,Aventure,8.5,28,Chloé David,chloe.david@example.com,F
+141,2025-10-17,Les Robots,Science-Fiction,11.25,10,Pierre Moreau,pierre.moreau@example.com,M
+142,2025-10-24,Le Hobbit,Fantasy,18.75,16,Sarah Laurent,sarah.laurent@example.com,F
+143,2025-10-31,Le Parfum,Littérature,11.75,5,Thomas Robert,thomas.robert@example.com,M
+144,2025-11-07,La Ferme des animaux,Satire,7.99,20,Lucie Martin,lucie.martin@example.com,F
+145,2025-11-14,Le Rouge et le Noir,Classique,10.25,13,Marc Fournier,marc.fournier@example.com,M
+146,2025-11-21,Les Misérables,Classique,19.99,7,Alice Roy,alice.roy@example.com,F
+147,2025-11-28,La Peste,Classique,95.0,23,Louis Mercier,louis.mercier@example.com,M
+148,2025-12-05,Le Parfum,Littérature,11.75,10,Chloé Lefèvre,chloe.lefevre@example.com,F
+149,2025-12-12,Fondation,Science-Fiction,165.0,28,Nicolas Blanc,nicolas.blanc@example.com,M
+150,2025-12-19,Les Fleurs du Mal,Poésie,7.99,17,Sarah Dumont,sarah.dumont@example.com,F
+151,2025-12-26,Bel-Ami,Classique,100.0,9,Mathieu Roux,mathieu.roux@example.com,M
+152,2026-01-02,Le Comte de Monte-Cristo,Classique,24.5,21,Elodie Simon,elodie.simon@example.com,F
+153,2026-01-09,Voyage au bout de la nuit,Littérature,12.25,14,Pierre Durand,pierre.durand@example.com,M
+154,2026-01-16,La Gloire de mon père,Autobiographie,13.75,6,Anne Moreau,anne.moreau@example.com,F
+155,2026-01-23,Le Nom de la rose,Historique,18.0,25,François David,francois.david@example.com,M
+156,2026-01-30,L'Écume des jours,Surréalisme,9.5,18,Léa Martin,lea.martin@example.com,F
+157,2026-02-06,La Horde du Contrevent,Fantasy,21.5,7,Thomas Laurent,thomas.laurent@example.com,M
+158,2026-02-13,Les Thanatonautes,Science-Fiction,15.25,22,Sophie Robert,sophie.robert@example.com,F
+159,2026-02-20,Le Château de Kafka,Littérature,10.99,5,Pauline Blanc,pauline.blanc@example.com,F
+160,2026-02-27,La Planète des singes,Science-Fiction,12.75,19,Antoine Petit,antoine.petit@example.com,M
+161,2026-03-06,L'Art de la guerre,Philosophie,6.99,12,Manon Leroy,manon.leroy@example.com,F
+162,2026-03-13,Le Meilleur des mondes,Science-Fiction,11.5,27,Lucas Morel,lucas.morel@example.com,M
+163,2026-03-20,Les Fourmis,Science-Fiction,14.25,8,Julie Bernard,julie.bernard@example.com,F
+164,2026-03-27,Le Vieil Homme et la Mer,Classique,8.5,16,Pierre Simon,pierre.simon@example.com,M
+165,2026-04-03,La Trilogie new-yorkaise,Littérature,17.99,11,Emma Dubois,emma.dubois@example.com,F
+166,2026-04-10,Le Silmarillion,Fantasy,20.0,23,Alexandre Roux,alexandre.roux@example.com,M
+167,2026-04-17,Le Liseur,Littérature,9.25,14,Clara Girard,clara.girard@example.com,F
+168,2026-04-24,Les Hauts de Hurlevent,Classique,10.5,7,Nicolas Martin,nicolas.martin@example.com,M
+169,2026-05-01,Le Petit Nicolas,Jeunesse,7.99,29,Lucie Durand,lucie.durand@example.com,F
+170,2026-05-08,Le Monde de Sophie,Philosophie,13.5,13,Victor Moreau,victor.moreau@example.com,M
+171,2026-05-15,La Promesse de l'aube,Autobiographie,11.25,20,Inès Laurent,ines.laurent@example.com,F
+172,2026-05-22,Le Livre des Baltimore,Littérature,14.99,9,Théo Blanc,theo.blanc@example.com,M
+173,2026-05-29,La Passe-miroir,Fantasy,16.5,17,Léa Robert,lea.robert@example.com,F
+174,2026-06-05,La Nuit des temps,Science-Fiction,15.25,6,Mathis Simon,mathis.simon@example.com,M
+175,2026-06-12,Le Symbole perdu,Thriller,12.75,24,Emma Martin,emma.martin@example.com,F
+176,2026-06-19,L'Île mystérieuse,Aventure,9.99,15,Louis Dubois,louis.dubois@example.com,M
+177,2026-06-26,Le Tour du monde en 80 jours,Aventure,8.5,28,Chloé Morel,chloe.morel@example.com,F
+178,2026-07-03,Les Robots,Science-Fiction,11.25,10,Pierre Laurent,pierre.laurent@example.com,M
+179,2026-07-10,Le Hobbit,Fantasy,18.75,16,Sarah Blanc,sarah.blanc@example.com,F
+180,2026-07-17,Le Parfum,Littérature,11.75,5,Thomas Roux,thomas.roux@example.com,M
+181,2026-07-24,La Ferme des animaux,Satire,7.99,20,Lucie Martin,lucie.martin@example.com,F
+182,2026-07-31,Le Rouge et le Noir,Classique,10.25,13,Marc Fournier,marc.fournier@example.com,M
+183,2026-08-07,Les Misérables,Classique,19.99,7,Alice Roy,alice.roy@example.com,F
+184,2026-08-14,La Peste,Classique,95.0,23,Louis Mercier,louis.mercier@example.com,M
+185,2026-08-21,Le Parfum,Littérature,11.75,10,Chloé Lefèvre,chloe.lefevre@example.com,F
+186,2026-08-28,Fondation,Science-Fiction,165.0,28,Nicolas Blanc,nicolas.blanc@example.com,M
+187,2026-09-04,Les Fleurs du Mal,Poésie,7.99,17,Sarah Dumont,sarah.dumont@example.com,F
+188,2026-09-11,Bel-Ami,Classique,100.0,9,Mathieu Roux,mathieu.roux@example.com,M
+189,2026-09-18,Le Comte de Monte-Cristo,Classique,24.5,21,Elodie Simon,elodie.simon@example.com,F
+190,2026-09-25,Voyage au bout de la nuit,Littérature,12.25,14,Pierre Durand,pierre.durand@example.com,M
+191,2026-10-02,La Gloire de mon père,Autobiographie,13.75,6,Anne Moreau,anne.moreau@example.com,F
+192,2026-10-09,Le Nom de la rose,Historique,18.0,25,François David,francois.david@example.com,M
+193,2026-10-16,L'Écume des jours,Surréalisme,9.5,18,Léa Martin,lea.martin@example.com,F
+194,2026-10-23,La Horde du Contrevent,Fantasy,21.5,7,Thomas Laurent,thomas.laurent@example.com,M
+195,2026-10-30,Les Thanatonautes,Science-Fiction,15.25,22,Sophie Robert,sophie.robert@example.com,F
+196,2026-11-06,Le Château de Kafka,Littérature,10.99,5,Pauline Blanc,pauline.blanc@example.com,F
+197,2026-11-13,La Planète des singes,Science-Fiction,12.75,19,Antoine Petit,antoine.petit@example.com,M
+198,2026-11-20,L'Art de la guerre,Philosophie,6.99,12,Manon Leroy,manon.leroy@example.com,F
+199,2026-11-27,Le Meilleur des mondes,Science-Fiction,11.5,27,Lucas Morel,lucas.morel@example.com,M
+200,2026-12-04,Les Fourmis,Science-Fiction,14.25,8,Julie Bernard,julie.bernard@example.com,F
